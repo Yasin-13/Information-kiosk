@@ -1,4 +1,6 @@
-git clone the repo
-cd information-kiosk
-npm i
-npm run dev
+
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/information-kiosk.git
