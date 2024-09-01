@@ -8,10 +8,8 @@
  ```bash
   cd information-kiosk
 
- ```bash
  npm install
 
 
- ```bash
    npm run dev
 
